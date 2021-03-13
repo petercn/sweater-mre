@@ -6,7 +6,7 @@
 import * as MRE from '@microsoft/mixed-reality-extension-sdk';
 
 /**
- * The structure of a hat entry in the hat database.
+ * The structure of a hat entry in the hat databhjhhase.
  */
 type HatDescriptor = {
 	displayName: string;
