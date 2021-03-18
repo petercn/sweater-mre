@@ -164,7 +164,7 @@ export default class WearAHat {
 				parentId: menu.id,
 				name: 'label',
 				text: {
-					contents: ''.padStart(8, ' ') + "Choose a Sweater",
+					contents: ''.padStart(8, ' ') + "Choose a Shirt",
 					height: 0.8,
 					anchor: MRE.TextAnchorLocation.MiddleCenter,
 					color: MRE.Color3.Yellow()
